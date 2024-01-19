@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="papaya_orange">#E56717</color>
+    <color name="papaya_orange_dark">#45DB5D0D</color>
+    <color name="ocean_blue">#1796E6</color>
+    <color name="ocean_blue_dark">#1C69A6</color>
+    <color name="red">#8B0000</color>
+    <color name="green">#32CD32</color>
+
+    <color name="turquoise">#1194AA</color>
+    <color name="purple">#5B37B7</color>
+
+    <color name="turquoise_20">#331194AA</color>
+    <color name="purple_20">#335B37B7</color>
+</resources>

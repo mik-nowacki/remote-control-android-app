@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AM Project App</string>
+    <string name="controller">Controlador</string>
+    <string name="motors">Motores</string>
+    <string name="control">Controlar</string>
+    <string name="monitor">Monitorizar</string>
+    <string name="add_new_motor">Añadir Nuevo Motor</string>
+    <string name="motor_name">Nombre del Motor</string>
+    <string name="voltage_rating">Voltaje</string>
+    <string name="max_rpm">RPM máx</string>
+    <string name="max_overload">Sobrecarga máxima</string>
+    <string name="save_parameters">AHORRAR PARÁMETROS</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="register">Registro</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">acceso</string>
+    <string name="motors_control">Control de motores</string>
+    <string name="new_motor">Motor Nuevo</string>
+    <string name="current_rpm">RPM actuales</string>
+    <string name="status">Estado:</string>
+</resources>
